@@ -1,5 +1,4 @@
 import json
-import turtle
 import urllib.request
 
 url = 'http://api.open-notify.org/astros.json'   #URL of people who are in ISS in space
